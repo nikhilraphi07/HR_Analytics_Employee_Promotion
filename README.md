@@ -1,24 +1,21 @@
-# Logistic Regression Model (To predict the Class to which a person belongs)
+# Machine Learning Model (To predict the Employees who are likely to be promoted)
 
 
-![Dog vs Cat](https://i.ibb.co/fXSZ1yc/TCS-Illustration-31.jpg)
+![Dog vs Cat](https://i.ibb.co/dgfWqCt/hr-1920x480.jpg)
 
 
-
-Machine Learning Model in R which we will be attempting to predict if people in the data set belong in a certain class by salary, either making <=50k or >50k per year.	
+This model is build as part of the HR Analytics Hackathon ny Analytics Vidya
+Machine Learning Model in python which will be predicting the emploees who have the most likelihood of being promoted based on various other factors within the organization.	
 
 
 ### Run Locally
-===========================================================================================
-- Download the .R script file provided above and execute the same in RStudio
+============================================================================
+- Run the Final_WNS_Model.ipynb file which is the python notebook
 
-### Check (ML - UCI Adult_Notebook) 
-===========================================================================================
-- Kindly follow the Notebook file provided above to get a step by step analysis os the  R script code
-- The data labels and the features within the data are documented in this file.
-- It contains a run in of the step to step analysis performed from data gathering to data visualization, model training and predicting the output
 
 ### Project Structure
--Adult_Dataset.R -The R script file which contains that R Studio code to develop the model
--adult_sal.csv  - Contains the csv file for training and testing the model to predict the class which the user belongs to 
--ML - UCI Adult_Notebook.pdf - Contains the step by step explaination on how to execute the model and detailed explanation of the data and the features present in it.
+-Final_WNS_Model.ipynb -The python notebook containing the final ML model
+-Model2.ipynb - Secondary python notebook with model implemented for cross validation
+-train_LZdllcl - Trainign dataset consisting of approx 55K records
+-test_2umaH9m  - Testing dataset on which the prediction needs to be done.
+-sample_submission_M0L0uXE - Submission file for checkig the solution and accuracy of the model
