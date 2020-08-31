@@ -16,6 +16,3 @@ Machine Learning Model in python which will be predicting the emploees who have 
 ### Project Structure
 -Final_WNS_Model.ipynb -The python notebook containing the final ML model
 -Model2.ipynb - Secondary python notebook with model implemented for cross validation
--train_LZdllcl - Trainign dataset consisting of approx 55K records
--test_2umaH9m  - Testing dataset on which the prediction needs to be done.
--sample_submission_M0L0uXE - Submission file for checkig the solution and accuracy of the model
